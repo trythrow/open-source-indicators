@@ -4,9 +4,28 @@ Open-source custom indicators for MetaTrader 5, written in MQL5.
 
 ## Available indicators
 
-| Title | Description | Raw source | Screenshot |
-| --- | --- | --- | --- |
-| Zero Lag Trend Signals (MTF) | A zero-lag exponential moving average with Wilder ATR deviation bands, bullish and bearish trend reversal and entry signals, a five-timeframe trend dashboard, and configurable popup alerts on closed bars. | [Download MQL5 source](https://raw.githubusercontent.com/trythrow/open-source-indicators/main/zero_lag_trend_signals.mq5) | [![Zero Lag Trend Signals on an EURUSD M5 chart](screenshots/zero-lag-trend-signals.png)](screenshots/zero-lag-trend-signals.png) |
+<table>
+  <thead>
+    <tr>
+      <th width="35%">Indicator</th>
+      <th width="65%">Screenshot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <strong>Zero Lag Trend Signals (MTF)</strong>
+        <p>A zero-lag exponential moving average with Wilder ATR deviation bands, bullish and bearish trend reversal and entry signals, a five-timeframe trend dashboard, and configurable popup alerts on closed bars.</p>
+        <a href="https://raw.githubusercontent.com/trythrow/open-source-indicators/main/zero_lag_trend_signals.mq5">Download MQL5 source</a>
+      </td>
+      <td valign="top">
+        <a href="screenshots/zero-lag-trend-signals.png">
+          <img src="screenshots/zero-lag-trend-signals.png" alt="Zero Lag Trend Signals on an EURUSD M5 chart" width="800">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Installation
 
